@@ -17,7 +17,7 @@ REDIRECT_URI = "here"
 ```
 after that authenticated spotify backend will send request to spotify api
 
-### NPM setup
+### npm setup
 go to frontend app and open terminal and paste these commands to setup
 ```powershell
 npm init -y
