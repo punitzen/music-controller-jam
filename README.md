@@ -1,5 +1,5 @@
 ## Music Controller Jam 
-a collaborative music playing app system using react, django and spotify api, where friends can join/make rooms for shared experience of music
+a collaborative music playing app system using react, django and spotify api, where friends can join/make rooms for shared experience of music, enabled with skip/play/pause the songs and voting system for skipping the current song for guests, settings panel for host to change settings after the room created, others could join the room using unique room key
 
 ![demo_gif](music_app.gif)
 
