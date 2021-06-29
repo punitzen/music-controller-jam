@@ -15,7 +15,7 @@ SPOTIFY_CLIENTID = "here"
 SPOTIFY_CLIENTSECRET = "here"
 REDIRECT_URI = "here"
 ```
-after that authenticated spotify backend will send request to spotify api
+after that authenticated spotify backend will send request to spotify api, added a images in repo to understand how spotify api works
 
 ### npm setup
 go to frontend app and open terminal and paste these commands to setup
