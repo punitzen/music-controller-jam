@@ -29,3 +29,12 @@ npm install @babel/plugin-proposal-class-properties
 npm install react-router-dom
 npm install @material-ui/icons
 ```
+### Start Build
+in music_controller app
+```python3
+python manage.py runserver
+```
+in frontend app folder
+```node
+npm run dev
+```
