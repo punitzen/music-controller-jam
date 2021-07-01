@@ -9,7 +9,7 @@ used react for frontend, rest_framework - Django, and Spotify API
 ### Setup Spotify API
 go to [Spotify Developers Dashboard](https://developer.spotify.com/dashboard/) and create a new app
 
-within the django's spotify app create a `credentials.py` file and add these varibles which you'll get from spotify app dashboard
+within the django's spotify app create a `credentials.py` file and add these variables which you'll get from spotify app dashboard
 ```python3
 SPOTIFY_CLIENTID = "here"
 SPOTIFY_CLIENTSECRET = "here"
